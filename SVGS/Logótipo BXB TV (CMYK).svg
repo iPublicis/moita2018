@@ -41,7 +41,7 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="2.5220317"
-     inkscape:cx="400.81301"
+     inkscape:cx="377.81568"
      inkscape:cy="652.03252"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -961,16 +961,12 @@
          id="stop458" />
     </linearGradient>
   </defs>
-  <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#a54358;stroke-width:0.20835881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4197"
-     width="89.702309"
-     height="40.291641"
-     x="170.46088"
-     y="310.40552" />
   <g
      id="g4195"
-     transform="matrix(0.1402439,0,0,0.1402439,145.31707,282.60337)">
+     transform="matrix(0.162,0,0,0.162,140.96585,272.44537)"
+     inkscape:export-filename="D:\Utilizadores\Lopo\Documents\Projectos\II Festa do Software Livre da Moita\moita2018\img\apoios\16.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        transform="translate(0,-158.11023)"
        clip-path="url(#clip1)"
