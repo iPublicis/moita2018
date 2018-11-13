@@ -1667,7 +1667,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*--------------------------------------------------------------
 # Custom
 --------------------------------------------------------------*/
-a[target="_blank"]:after {
+#footer a[target="_blank"]:after {
   font-family: 'FontAwesome';
   content: " \f08e";
 }
