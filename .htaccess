@@ -1,0 +1,7 @@
+Options +FollowSymlinks -MultiViews
+RewriteEngine On
+RewriteBase /
+# RewriteCond %{REQUEST_URI}  !articles\.html      [NC]
+# RewriteCond %{REQUEST_URI}  ^/articles/([^/]+)/? [NC]
+RewriteCond %{QUERY_STRING} != ~$ [NC]
+RewriteRule .*       /#%1     [R,NE,L]
